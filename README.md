@@ -7,7 +7,7 @@
 <title> This is my website </title>
 <img src="photo.jpg"/>
 <p>
-My name is Mark Leonard. I am a student of Dunman High School. Currently in 1st year high school. </p>
+My name is Natalie Tan. I am a student of Dunman High School. Currently in 1st year high school. </p>
 <p>
 Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>. </p>
 <br>
