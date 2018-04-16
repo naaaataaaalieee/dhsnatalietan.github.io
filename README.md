@@ -13,10 +13,10 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <br>
 <p>Here are the things I love to do the most : </p> 
 <ul>
-<li>Climbing Mountains</li>
-<a href="http://www.trailadventours.com/philippine-mountains/mt-pulag"> Climbed Mt. Pulag </a>
-<li>Travelling and Exploring Places</li>
-<li>Reading Adventure Books</li>
+<li>Reading</li>
+<a href="https://www.pottermore.com/"> I am a Ravenclaw! </a>
+<li>Spending time with family</li>
+<li>Watching movies</li>
 </ul>
 </body>
 </html>
