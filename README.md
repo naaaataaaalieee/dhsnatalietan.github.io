@@ -14,7 +14,7 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <p>Here are the things I love to do the most : </p> 
 <ul>
 <li>Reading</li>
-<a href="https://www.pottermore.com/"> I am a Ravenclaw! </a>
+<a href="https://www.pottermore.com/"> Pottermore </a>
 <li>Spending time with family</li>
 <li>Watching movies</li>
 </ul>
